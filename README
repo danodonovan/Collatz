@@ -8,6 +8,8 @@ provide a simple example of the Collatz conjecture.
 It doesn't do much, but it does make a pretty 
 pattern.
 
+![collatz conjecture](Fig1.jpg "collatz conjecture")
+
 Requires:
 	Modern Python
 	Numpy
