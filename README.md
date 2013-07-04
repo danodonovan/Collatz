@@ -8,7 +8,7 @@ provide a simple example of the Collatz conjecture.
 It doesn't do much, but it does make a pretty 
 pattern.
 
-![collatz conjecture](Fig1.jpg "collatz conjecture")
+![collatz conjecture](https://raw.github.com/danodonovan/Collatz/master/Fig1.png "collatz conjecture")
 
 Requires:
 	Modern Python
